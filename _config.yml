@@ -21,8 +21,8 @@ description: "»Professional Marksmen Inc. utilizes military combat veterans and
 
 # This URL is the main adresse. Don't include a slash at the end.
 #
-url: "http://jonweilerpmi.github.io/professionalmarksmen "
-baseurl: ""
+url: "http://jonweilerpmi.github.io/professionalmarksmen"
+baseurl: "http://jonweilerpmi.github.io/professionalmarksmen"
 
 # This is for the editing function in _/includes/improve_content.html
 # Leave it empty if your site is not on GitHub/GitHub Pages
