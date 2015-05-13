@@ -1,62 +1,46 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Getting Started
+- title: Methodology
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+- title: "Courses and Locations"
   url: "/design/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
+  - title: "Fundamental Foundations"
+    url: "https://store.professionalmarksmen.com/index.php?l=product_detail&p=9"
+  - title: "Defensive Pistol"
+    url: "https://store.professionalmarksmen.com/index.php?l=product_list&c=1"
+  - title: "Defensive Rifle"
+    url: "https://store.professionalmarksmen.com/index.php?l=product_list&c=2"
+  - title: "Defensive Shotgun"
+    url: "https://store.professionalmarksmen.com/index.php?l=product_list&c=3"
+  - title: "Precision Rifle"
+    url: "#"
 
-- title: "Header Styles"
+
+- title: "PMI Instructors"
   url: "/headers/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
+  - title: "Jon Weiler"
     url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
+  - title: "Jim Rutske"
     url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
+  - title: "Steve Overman"
     url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
 
-- title: Documentation
+
+- title: Employment
   url: "/documentation/"
   side: left
   dropdown:
-  - title: Documentation
+  - title: "Defensive Lead Instructor"
     url: "/documentation/"
-  - title: "Changelog"
+  - title: "Precision Lead Instructor"
     url: "/changelog/"
   - title: "Roadmap"
     url: "/roadmap/"
@@ -70,9 +54,6 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Search"
-  url: "/search/"
-  side: right
 
 - title: "Contact"
   url: "/contact/"
