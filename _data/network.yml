@@ -1,7 +1,5 @@
 - menu_name: "Newsletter"
 
-<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us2.list-manage.com","uuid":"c2668a4722cb45bb6bf546f65","lid":"c179792770"}) })</script>
-
 - name: "Icons by Daniel Bruce"
   url: "http://entypo.com/"
   class: "network-entypo"
