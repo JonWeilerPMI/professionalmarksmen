@@ -5,7 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "Feeling Responsive – A Jekyll Theme Based On Foundation"
+title: "Professional Marksmen Inc. – Train for Everyday"
 header:
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
